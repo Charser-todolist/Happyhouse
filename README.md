@@ -13,23 +13,19 @@
 
 | 메소드 | 경로        | 설명                 | 인증 |
 | ------ | ----------- | --------------------|---- |
-| GET    | /getAptInDong  | 모든  todolist 조회  | O    |
-| GET    | /getAptSearch | todoLIst 하나씩 조회 | O    |
-| POST   | /confirm/login | todolist 생성        | O    |
-| GET    | /info     | todolist 수정하기    | O    |
-| POST | /join | todolist 삭제하기    | O    |
-| PUT    | /editlogin       | 모든  todolist 조회  | O    |
-| DELETE    | /editdelete/{id}      | 모든  todolist 조회  | O    |
-| POST    | /notice    | 모든  todolist 조회  | O    |
-| GET    | /noticelist   | 모든  todolist 조회  | O    |
-| PUT    | /notice      | 모든  todolist 조회  | O    |
-| DELETE   | /notice/{id}     | 모든  todolist 조회  | O    |
+| GET    | /getAptInDong  | 모든 아파트동 조회  | O    |
+| GET    | /getAptSearch | 아파트 조회 | O    |
+| POST   | /confirm/login | 로그인화면        | O    |
+| GET    | /info     |  메인화면    | O    |
+| POST | /join | 회원가입    | O    |
+| PUT    | /editlogin       | 회원정보수정  | O    |
+| DELETE    | /editdelete/{id}      | 회원탈퇴  | O    |
+| POST    | /notice    | 공지사항  | O    |
+| GET    | /noticelist   | 공지사항 조회  | O    |
+| PUT    | /notice      | 글쓰기 수정  | O    |
+| DELETE   | /notice/{id}     | 글 삭제  | O    |
 ## 기능
-- 날씨 api를 활용하여 날씨 예보 확인가능
-- 일정 삽입기능 
-- 일정 수정기능
-- 일정 조회기능
-- 일정 삭제기능
+
 
 ## 실행 방법 
 Vue.js [Vue.js 설치](https://kr.vuejs.org/v2/guide/index.html)를 통해 설치할 수 있습니다. 
