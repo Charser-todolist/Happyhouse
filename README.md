@@ -1,3 +1,5 @@
+![해피해피](https://user-images.githubusercontent.com/38427646/116422965-36470580-a87b-11eb-9871-18e781c37141.JPG)
+
 # Happyhouse
 삼성청년소프트웨어 - 관통프로젝트 (2020년 하반기)
 부동산 정보 관련 웹사이트
